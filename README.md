@@ -6,6 +6,7 @@ Um jogo simples onde o jogador tenta adivinhar um número aleatório entre 1 e 1
 
 1. Clone este repositório
 2. Ative o ambiente virtual:
+3. Rode em seu terminal : python jogo_adivinhacao_pygame.py
 
 .\venv\Scripts\activate # Windows
 source venv/bin/activate # Linux/Mac
